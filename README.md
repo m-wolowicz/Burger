@@ -9,17 +9,11 @@ Week 14 Homework Assignment: Node Express Handlebars
 
 Create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
-## Live App
-
-* Check out [the live version of the site here](https://comingsoon.herokuapp.com/). 
 
 ### Overview
 
 In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
-### Important
-
-Be sure to utilize the [MYSQL Heroku Deployment Guide](../Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy your assignment.
 
 ### How To Use The App
 
@@ -31,7 +25,9 @@ Be sure to utilize the [MYSQL Heroku Deployment Guide](../Supplemental/MySQLHero
 
 * The app stores every burger in a database, whether devoured or not.
 
+
 - - -
+
 
 ## Copyright
 
