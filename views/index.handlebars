@@ -19,7 +19,7 @@
 					{{#each burgers}}
 						{{#unless this.devoured}}
 							<div class="">
-									<form class="burgerButton" action="/api/burgers/{{this.id}}?_method=PUT" method="POST">
+									<form class="burgerButton" action="/burgers/update/{{this.id}}?_method=PUT" method="POST">
 									<p class="menuItem">{{this.id}}. {{this.burger_name}}
 										<input type="hidden" name="devoured" value="true"><button class="btn btn-primary" type="submit">Eat Da Burger!</button>
 										</p>
